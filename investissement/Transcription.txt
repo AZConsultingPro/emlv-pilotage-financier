@@ -1,0 +1,28 @@
+Choisir un investissement · Dialogue à deux voix
+Voix synthétiques prévues ; audio non généré.
+
+1. Voix féminine · Écran 1 : profil de VAN
+Harborview a une VAN positive et un TRI supérieur au taux exigé. Peut-on l’accepter immédiatement ?
+
+2. Voix enseignant · Pause 2 s · délai
+Ces critères indiquent une création de valeur sous les hypothèses retenues. Il faut aussi vérifier les contraintes. Le délai simple est de quatre ans. Si trois ans est une limite impérative, le projet ne la respecte pas.
+
+3. Voix féminine · Écran 2 : statut de la contrainte
+Et si trois ans n’est qu’un objectif souhaitable ?
+
+4. Voix enseignant · Pause 2 s · décision
+Le comité peut arbitrer le dépassement au regard de la valeur créée et du risque. La recommandation doit le dire. On ne transforme pas silencieusement une exigence en simple préférence.
+
+5. Voix féminine · Écran 3 : portefeuille
+Avec plusieurs projets et un budget limité, dois-je prendre le plus fort indice de profitabilité ?
+
+6. Voix enseignant · Pause 2 s · B+C
+L’indice aide à comparer l’efficacité, mais des projets indivisibles exigent de vérifier les combinaisons. Dans notre exemple, les projets B et C coûtent ensemble cent vingt mille euros et créent trente-trois mille euros de valeur.
+
+7. Voix féminine · Écran 4 : comparaison
+Pourquoi ne pas choisir A, qui a la plus forte VAN individuelle ?
+
+8. Voix enseignant · Fin · recommandation
+A crée vingt mille euros de valeur. La combinaison B et C en crée treize mille de plus tout en respectant le budget. La bonne décision dépend donc de l’ensemble réalisable, et pas seulement d’un classement isolé.
+
+Prononciation : lire les unités en entier. CA : chiffre d’affaires ; BFR : bé-eff-ère ; VAN : vanne ; TRI : té-ère-i ; EBIT : ébit ; EBITDA : ébitda. Lire les taux en pour cent et les décimales avec « virgule ».

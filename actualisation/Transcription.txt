@@ -1,0 +1,28 @@
+Axe du temps et actualisation · Dialogue à deux voix
+Voix synthétiques prévues ; audio non généré.
+
+1. Voix féminine · Écran 1 : t0 et t1
+Si nous recevons mille cent euros dans un an, pourquoi cela pourrait-il valoir seulement mille euros aujourd’hui ?
+
+2. Voix enseignant · Pause 2 s · facteur
+Au taux annuel de dix pour cent, mille euros placés aujourd’hui deviennent mille cent euros dans un an. Le facteur un virgule dix contient le capital, représenté par un, et les intérêts, représentés par zéro virgule dix.
+
+3. Voix féminine · Écran 2 : opération inverse
+Pour revenir à aujourd’hui, je retire donc dix pour cent de mille cent ?
+
+4. Voix enseignant · Pause 2 s · division
+Non. Nous divisons mille cent par un virgule dix. Retirer dix pour cent de mille cent donnerait neuf cent quatre-vingt-dix. Ce serait une autre opération, car le pourcentage serait appliqué à une base différente.
+
+5. Voix féminine · Écran 3 : prévision
+Si le taux monte alors que les mille cent euros restent fixés, la valeur aujourd’hui augmente ?
+
+6. Voix enseignant · Pause 2 s · curseur
+Elle diminue. Le diviseur augmente. Vous avez besoin de moins de capital initial pour produire le même montant futur avec un rendement plus élevé. Faites varier le taux dans le laboratoire pour vérifier cette prévision.
+
+7. Voix féminine · Écran 4 : unité de temps
+Et si les paiements sont mensuels ?
+
+8. Voix enseignant · Fin · parcours
+Utilisez un taux par mois et comptez les mois. Chaque paiement rejoint la même date avant la comparaison. Un paiement à la date zéro ne subit aucun déplacement. Vous pouvez maintenant comparer deux devis et expliquer votre choix.
+
+Prononciation : lire les unités en entier. CA : chiffre d’affaires ; BFR : bé-eff-ère ; VAN : vanne ; TRI : té-ère-i ; EBIT : ébit ; EBITDA : ébitda. Lire les taux en pour cent et les décimales avec « virgule ».

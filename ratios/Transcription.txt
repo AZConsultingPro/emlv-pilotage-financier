@@ -1,0 +1,28 @@
+Ratios financiers · Dialogue à deux voix
+Voix synthétiques prévues ; audio non généré.
+
+1. Voix féminine · Écran 1 : les deux bilans
+Je vois que l’actif courant augmente. Puis-je conclure que tout va mieux ?
+
+2. Voix enseignant · Pause 2 s · cellules 2021
+Il faut comparer cette hausse à celle du passif courant. Chez Global, en deux mille vingt et un, l’actif courant est de quarante-huit millions de dollars et le passif courant de quarante-quatre millions. Quarante-huit divisé par quarante-quatre donne environ un virgule zéro neuf.
+
+3. Voix féminine · Écran 2 : le quotient
+Le résultat ne s’exprime donc pas en millions ?
+
+4. Voix enseignant · Pause 2 s · cellules 2022
+Exactement. Les millions de dollars se simplifient. Nous lisons un virgule zéro neuf unité d’actif courant pour une unité de passif courant. En deux mille vingt-deux, cinquante-sept divisé par quarante-huit donne un virgule dix-neuf.
+
+5. Voix féminine · Écran 3 : interpréter
+Puis-je dire que Global peut payer toutes ses échéances ?
+
+6. Voix enseignant · Pause 2 s · limite
+Ce ratio ne suffit pas. Les stocks doivent être vendus et les créances encaissées. Les dates peuvent ne pas correspondre aux paiements exigés. La couverture en montant progresse, mais nous devons vérifier la disponibilité réelle des actifs.
+
+7. Voix féminine · Retour au bilan
+Pour la liquidité réduite, je retire seulement les stocks ?
+
+8. Voix enseignant · Fin · activité r3
+Dans la convention du support, nous retenons la trésorerie, les placements à court terme et les créances clients. Les autres actifs courants ne sont pas automatiquement retenus. Il faut identifier chaque ligne avant d’effectuer le calcul.
+
+Prononciation : lire les unités en entier. CA : chiffre d’affaires ; BFR : bé-eff-ère ; VAN : vanne ; TRI : té-ère-i ; EBIT : ébit ; EBITDA : ébitda. Lire les taux en pour cent et les décimales avec « virgule ».

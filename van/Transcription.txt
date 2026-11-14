@@ -1,0 +1,28 @@
+Flux d’un projet et VAN · Dialogue à deux voix
+Voix synthétiques prévues ; audio non généré.
+
+1. Voix féminine · Écran 1 : résultat
+Atelier Nova gagne onze mille deux cent cinquante euros. Pourquoi son flux est-il plus élevé ?
+
+2. Voix enseignant · Pause 2 s · charge non décaissée
+Le résultat comprend une charge de vingt-cinq mille euros d’amortissement. Cette charge répartit le coût de la machine dans les comptes. La machine a déjà été payée au départ ; il n’y a pas de nouveau paiement annuel de cette dotation.
+
+3. Voix féminine · Écran 2 : passage au flux
+Nous ajoutons donc vingt-cinq mille euros au résultat ?
+
+4. Voix enseignant · Pause 2 s · 36 250 €
+Oui. Onze mille deux cent cinquante plus vingt-cinq mille donne trente-six mille deux cent cinquante euros avant variation du besoin en fonds de roulement. L’impôt a déjà été calculé sur le résultat après amortissement.
+
+5. Voix féminine · Écran 3 : dates
+Que deviennent les dix mille euros de BFR ?
+
+6. Voix enseignant · Pause 2 s · frise
+Ils sont investis à la date zéro avec la machine. Le flux initial est donc moins cent dix mille euros. Le cas prévoit leur récupération à la fin de la quatrième année. Le dernier flux est alors quarante-six mille deux cent cinquante euros.
+
+7. Voix féminine · Écran 4 : périmètre
+Faut-il encore enlever les intérêts du crédit ?
+
+8. Voix enseignant · Fin · VAN
+Pas dans ces flux de projet. Le financement est traité par le coût du capital utilisé pour actualiser. La VAN mesure ensuite la valeur créée sous les hypothèses retenues. Vérifiez ces hypothèses avant de recommander.
+
+Prononciation : lire les unités en entier. CA : chiffre d’affaires ; BFR : bé-eff-ère ; VAN : vanne ; TRI : té-ère-i ; EBIT : ébit ; EBITDA : ébitda. Lire les taux en pour cent et les décimales avec « virgule ».

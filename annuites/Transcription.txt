@@ -1,0 +1,28 @@
+Annuités, taux et crédit · Dialogue à deux voix
+Voix synthétiques prévues ; audio non généré.
+
+1. Voix féminine · Écran 1 : prêt de 10 000 €
+Si ma mensualité est constante, est-ce que je rembourse toujours la même somme de capital ?
+
+2. Voix enseignant · Pause 2 s · échéance
+Non. Le paiement contient les intérêts et le remboursement du capital. Avec dix mille euros empruntés sur trois ans à cinq pour cent annuel, l’échéance annuelle vaut environ trois mille six cent soixante-douze euros et neuf centimes.
+
+3. Voix féminine · Écran 2 : année 1
+Comment trouver les intérêts du premier paiement ?
+
+4. Voix enseignant · Pause 2 s · décomposition
+Multipliez le capital dû au début par cinq pour cent. Dix mille fois zéro virgule zéro cinq donne cinq cents euros. Le reste du paiement, environ trois mille cent soixante-douze euros et neuf centimes, rembourse le capital.
+
+5. Voix féminine · Écran 3 : capital restant dû
+Et la deuxième année ?
+
+6. Voix enseignant · Pause 2 s · année suivante
+La dette a diminué. Les intérêts portent sur environ six mille huit cent vingt-sept euros et quatre-vingt-onze centimes. À échéance constante, moins d’intérêts signifie davantage de capital remboursé.
+
+7. Voix féminine · Écran 4 : périodicité
+Puis-je utiliser cinq pour cent pour vingt-quatre mensualités ?
+
+8. Voix enseignant · Fin · activité taux
+Pas directement. Il faut un taux mensuel. Si le contrat donne un taux nominal annuel, divisez par douze. S’il donne un taux annuel effectif, cherchez le taux composé équivalent. Lisez la convention avant de choisir la formule.
+
+Prononciation : lire les unités en entier. CA : chiffre d’affaires ; BFR : bé-eff-ère ; VAN : vanne ; TRI : té-ère-i ; EBIT : ébit ; EBITDA : ébitda. Lire les taux en pour cent et les décimales avec « virgule ».
