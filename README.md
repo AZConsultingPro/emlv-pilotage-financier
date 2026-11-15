@@ -1,19 +1,15 @@
-# Pilotage de la performance financière
+# Chapitre 2 · Décisions financières
 
-Cinq applications pédagogiques EMLV pour MSID1, DRH1 et DRH2. Version 1.4.0.
+Applications EMLV pour MSID1, DRH1 et DRH2.
 
-Les parcours et carnets fonctionnent dans le navigateur. Google Forms nécessite Internet. La lecture vocale utilise les voix françaises du navigateur ; sa disponibilité dépend de l’appareil.
+Le module 1 « Axe du temps et actualisation », version 2.0, a été validé par Akim le 15 novembre 2026. Il est accessible à la racine et dans `actualisation/` (anciens liens conservés). Cours HTML, parcours guidé, lexique, fiches, exercices, quiz, devoir et carnet local.
 
-Aucun dossier enseignant, identifiant administratif ou résultat étudiant n’est publié ici.
+Les nouvelles versions des modules 2 « Annuités, taux et crédit », 3 « Flux d’un projet et VAN » et 4 « Choisir un investissement » sont produites et validées séparément. Leurs anciens fichiers ne constituent pas des versions pédagogiques approuvées et ne sont plus proposés depuis l’accueil.
 
-Conception A.Zeboudj, AZ Consulting - O.Burkaz - O-Bway.
+Les ratios relèvent du chapitre 1 : l’ancien lien redirige vers l’application validée.
 
-## Mon carnet
+Identité déclarative : cinq champs, adresse @edu.devinci.fr ; aucun SSO ni contrôle de propriété de l’adresse. Export/import JSON local propre au module. Aucun envoi centralisé n’est simulé.
 
-Depuis l’accueil ou le menu « Mon carnet », renseignez prénom, nom et promotion. La progression est enregistrée automatiquement dans ce navigateur, avec un bouton d’enregistrement explicite. Exportez le carnet JSON pour conserver une copie et importez-le dans le même module sur un autre appareil. Un carnet par module ; aucune synchronisation ni transmission automatique à l’enseignant. Les anciens carnets restent compatibles.
+Les documents enseignant et archives de production restent dans les livrables privés. Le support étudiant original est fourni localement.
 
-## Raisonnements guidés
-
-Les prévisions, constats et justifications se construisent par choix d’une affirmation à chaque étape. Le raisonnement assemblé, la correction de chaque choix et un exemple attendu accompagnent la validation. Les choix sont enregistrés dans le carnet et inclus dans son export/import. Les activités avec justification demandent de valider la réponse principale et le raisonnement. Les réponses numériques et les points déjà acquis sont conservés.
-
-Version 1.4.0 : parcours essentiel, calculs décomposés et saisies calculatrice, aides ciblées et suivi des premiers essais de transfert.
+A. Zeboudj · AZ Consulting
