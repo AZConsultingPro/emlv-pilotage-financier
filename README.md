@@ -1,6 +1,6 @@
 # Pilotage de la performance financière
 
-Cinq applications pédagogiques EMLV pour MSID1, DRH1 et DRH2. Version 1.3.1.
+Cinq applications pédagogiques EMLV pour MSID1, DRH1 et DRH2. Version 1.4.0.
 
 Les parcours et carnets fonctionnent dans le navigateur. Google Forms nécessite Internet. La lecture vocale utilise les voix françaises du navigateur ; sa disponibilité dépend de l’appareil.
 
@@ -16,4 +16,4 @@ Depuis l’accueil ou le menu « Mon carnet », renseignez prénom, nom et promo
 
 Les prévisions, constats et justifications se construisent par choix d’une affirmation à chaque étape. Le raisonnement assemblé, la correction de chaque choix et un exemple attendu accompagnent la validation. Les choix sont enregistrés dans le carnet et inclus dans son export/import. Les activités avec justification demandent de valider la réponse principale et le raisonnement. Les réponses numériques et les points déjà acquis sont conservés.
 
-Version 1.3.1 : raisonnement affiché aussi dans les défis ; aides ciblées pour l’amortissement et le résultat après impôt.
+Version 1.4.0 : parcours essentiel, calculs décomposés et saisies calculatrice, aides ciblées et suivi des premiers essais de transfert.
