@@ -3291,9 +3291,9 @@ h1:focus-visible,.course-lesson h2:focus-visible,#suite-chapitre h2:focus-visibl
    "lesson": "credit"
   }
  ]
-}; M.all=[...M.lessons.flatMap(l=>l.questions),...M.transfer,...M.quiz,...M.advanced.flatMap(a=>a.questions),...M.dst]; M.lessonById=Object.fromEntries(M.lessons.map(l=>[l.id,l])); M.euro=n=>new Intl.NumberFormat("fr-FR",{minimumFractionDigits:2,maximumFractionDigits:2}).format(n)+" €"; return M; })();</script><script>window.ChapterRelease={available:[1,2],base:"../"};</script><script>/* Presentation only. Learning content, answers and storage remain in the module engine. */
+}; M.all=[...M.lessons.flatMap(l=>l.questions),...M.transfer,...M.quiz,...M.advanced.flatMap(a=>a.questions),...M.dst]; M.lessonById=Object.fromEntries(M.lessons.map(l=>[l.id,l])); M.euro=n=>new Intl.NumberFormat("fr-FR",{minimumFractionDigits:2,maximumFractionDigits:2}).format(n)+" €"; return M; })();</script><script>window.ChapterRelease={available:[1,2,3],base:"../"};</script><script>/* Presentation only. Learning content, answers and storage remain in the module engine. */
 window.ChapterDesign={render(page,ready){
- const M=window.Module,current=Number(M.id.slice(-2)),release=window.ChapterRelease||{available:[1,2],base:'../'};
+ const M=window.Module,current=Number(M.id.slice(-2)),release=window.ChapterRelease||{available:[1,2,3],base:'../'};
  document.body.dataset.page=page||'chapitre';document.body.dataset.ready=String(ready);
  const box=document.getElementById('module-switcher');box.hidden=!ready;
  const names=['Axe du temps et actualisation','Annuités, taux et crédit','Flux d’un projet et VAN','Choisir un investissement'];
