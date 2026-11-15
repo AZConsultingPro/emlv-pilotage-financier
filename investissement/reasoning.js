@@ -9,7 +9,13 @@
     return {id,label,answer:'correct',options:options.slice(shift).concat(options.slice(0,shift))};
   }
   const block=(title,context,steps)=>({title,context,steps});
-  function get(module,id,value){
+  function get(module,id,value,questions=[]){
+    if(/^q-challenge-\d+$/.test(id)){
+      const index=Number(id.slice('q-challenge-'.length));
+      const source=questions[index%questions.length];
+      if(!source?.justify)return null;
+      id='q-'+source.id;
+    }
     const s=step;
     if(module==='ratios'){
       if(id==='lab-prediction')return block('1 · Construire ma prévision','Global : comparez 2021 (actif courant 48 M$, passif courant 44 M$) et 2022 (57 M$ et 48 M$).',[
