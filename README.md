@@ -2,14 +2,12 @@
 
 Applications EMLV pour MSID1, DRH1 et DRH2.
 
-Le module 1 « Axe du temps et actualisation », version 2.0, a été validé par Akim le 15 novembre 2026. Il est accessible à la racine et dans `actualisation/` (anciens liens conservés). Cours HTML, parcours guidé, lexique, fiches, exercices, quiz, devoir et carnet local.
+Les modules 1 « Axe du temps et actualisation » et 2 « Annuités, taux et crédit », version 2.0, ont été validés par Akim le 15 novembre 2026. Accueil : https://azconsultingpro.github.io/emlv-pilotage-financier/ . Le module 2 est dans annuites/ ; le module 1 reste dans actualisation/ et à la racine. Seuls ses liens de navigation ont été complétés pour rejoindre l’accueil et le module 2.
 
-Les nouvelles versions des modules 2 « Annuités, taux et crédit », 3 « Flux d’un projet et VAN » et 4 « Choisir un investissement » sont produites et validées séparément. Leurs anciens fichiers ne constituent pas des versions pédagogiques approuvées et ne sont plus proposés depuis l’accueil.
+Cours HTML complet, parcours guidé, lexique, fiches, exercices, quiz, devoir et carnet local propre à chaque module. Identité déclarative à cinq champs, adresse @edu.devinci.fr ; aucun SSO ni preuve de propriété de l’adresse. Aucune donnée étudiante envoyée au dépôt. Export/import JSON visible. Aucun suivi centralisé simulé.
 
-Les ratios relèvent du chapitre 1 : l’ancien lien redirige vers l’application validée.
+Le module 3 « Flux d’un projet et VAN » est en préparation privée. Le module 4 « Choisir un investissement » attend sa validation. Les anciens fichiers de ces deux modules ne constituent pas les nouvelles versions pédagogiques approuvées et ne sont pas proposés depuis l’accueil.
 
-Identité déclarative : cinq champs, adresse @edu.devinci.fr ; aucun SSO ni contrôle de propriété de l’adresse. Export/import JSON local propre au module. Aucun envoi centralisé n’est simulé.
-
-Les documents enseignant et archives de production restent dans les livrables privés. Le support étudiant original est fourni localement.
+Les ratios appartiennent au chapitre 1 ; l’ancien lien redirige vers l’application validée. Documents enseignant et archives conservés dans les livrables privés.
 
 A. Zeboudj · AZ Consulting
